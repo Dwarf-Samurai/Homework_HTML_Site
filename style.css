@@ -361,7 +361,8 @@ summary {
     background: #ee5e5e;
     border-radius: 0px 50px 50px 0px;
     width: 100px;
-    height: 49px;
+    height: 50px;
+    color: #ffffff;
 }
 
 .section__footer{
@@ -526,6 +527,7 @@ summary {
         flex-direction: column;
         align-items: center;
         gap: 30px;
+        padding: 30px;
     }
 
     .sale__png{
